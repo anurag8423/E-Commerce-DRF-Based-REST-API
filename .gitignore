@@ -1,0 +1,17 @@
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+media/
+staticfiles/
+
+.vscode/
+
+.env
+
+*/migrations/*.py
+!*/migrations/__init__.py
+
+.venv
