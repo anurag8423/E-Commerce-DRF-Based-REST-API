@@ -46,7 +46,7 @@ A robust e-commerce backend API built with Django REST Framework featuring:
 
 ## Installation
 
-1. Clone repository:
+1. #### Clone repository:
    ```bash
    git clone https://github.com/anurag8423/E-Commerce-DRF-Based-REST-API.git
    cd E-Commerce-DRF-Based-REST-API
