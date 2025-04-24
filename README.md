@@ -1,8 +1,8 @@
 # E-commerce API
 
-[![Django](https://img.shields.io/badge/Django-4.2-brightgreen.svg)](https://www.djangoproject.com/)
-[![DRF](https://img.shields.io/badge/DRF-3.14-blue.svg)](https://www.django-rest-framework.org/)
-[![Redis](https://img.shields.io/badge/Redis-7.0-red.svg)](https://redis.io/)
+[![Django](https://img.shields.io/badge/Django-5.7-brightgreen.svg)](https://www.djangoproject.com/)
+[![DRF](https://img.shields.io/badge/DRF-3.16-blue.svg)](https://www.django-rest-framework.org/)
+[![Redis](https://img.shields.io/badge/Redis-5.2-red.svg)](https://redis.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue.svg)](https://www.postgresql.org/)
 
 A robust e-commerce backend API built with Django REST Framework featuring:
